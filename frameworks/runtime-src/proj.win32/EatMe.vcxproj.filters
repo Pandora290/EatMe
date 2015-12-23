@@ -35,6 +35,12 @@
     <ClInclude Include="..\Classes\ide-support\RuntimeLuaImpl.h">
       <Filter>Classes</Filter>
     </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Joystick.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\Classes\AppDelegate.cpp">
@@ -51,6 +57,12 @@
       <Filter>Classes</Filter>
     </ClCompile>
     <ClCompile Include="..\Classes\ide-support\RuntimeLuaImpl.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Joystick.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
   </ItemGroup>
